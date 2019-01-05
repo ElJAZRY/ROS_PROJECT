@@ -5,6 +5,8 @@ The repository contains the work done as part of the Robotics module For master 
 
 
 ![Map based Vs Behavior-based navigation 1.](https://github.com/ElJAZRY/ROS_PROJECT/blob/master/behavior_based/map_behave.png)
+
+
 Map based Vs Behavior-based navigation [1].
 
 
@@ -23,9 +25,11 @@ one area to another based on the state of the goal Robot .
 ![Move-Base](https://github.com/ElJAZRY/ROS_PROJECT/blob/master/behavior_based/Dlu_nav.png)
 
 
+# SMACH 
 
+SMACH is a task-level architecture for rapidly creating complex robot behavior , we use SMACH package based architecture to enable our robot to navigate through predefined points (Loading - Unloading) to preform the given scenario  . 
 
-
+![Map based Vs Behavior-based navigation 1.](https://github.com/ElJAZRY/ROS_PROJECT/blob/master/behavior_based/projectDiagram.png)
 
 
 
