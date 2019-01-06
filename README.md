@@ -31,6 +31,12 @@ SMACH is a task-level architecture for rapidly creating complex robot behavior ,
 
 ![Map based Vs Behavior-based navigation 1.](https://github.com/ElJAZRY/ROS_PROJECT/blob/master/behavior_based/projectDiagram.png)
 
+# Dependency 
+
+- ubuntu 14.04
+- ROS Indigo
+- rbx1  "ROS By Example Volume 1"
+- rbx2  "ROS By Example Volume 2"
 
 
 To Launch Map Based Navigation  :
